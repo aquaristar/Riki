@@ -1,0 +1,7 @@
+python "1. Primitive Datatypes and Operators.py"
+python "2. Variables and Collections.py"
+python "3. Control Flow.py"
+python "4. Functions.py"
+python "5. Classes.py"
+python "6. Modules.py"
+python "7. Advanced.py"
